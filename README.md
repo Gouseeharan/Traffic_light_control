@@ -5,14 +5,23 @@ Overview This project is designed using Xilinx Vivado and Verilog HDL. It demons
 Tools Used
 
 Xilinx Vivado
+
 Verilog HDL
+
 Simulation and RTL Schematic
+
 Steps Performed
 
 Designed the Verilog module
- Created a testbench
- Simulated the design in Vivado
- Verified waveform output
- Generate the Schematic Diagram
+
+Created a testbench
+
+Simulated the design in Vivado
+
+Verified waveform output
+
+Generate the Schematic Diagram
+
 Output Add your Vivado simulation image here: 
- Add your RTL schematic image here :
+
+Add your RTL schematic image here :
