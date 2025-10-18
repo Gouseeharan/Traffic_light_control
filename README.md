@@ -10,8 +10,9 @@ Simulation and RTL Schematic
 Steps Performed
 
 Designed the Verilog module
-Created a testbench
-Simulated the design in Vivado
-Verified waveform output
-Generate the Schematic Diagram
-Output Add your Vivado simulation image here: Add your RTL schematic image here :
+ Created a testbench
+ Simulated the design in Vivado
+ Verified waveform output
+ Generate the Schematic Diagram
+Output Add your Vivado simulation image here: 
+ Add your RTL schematic image here :
