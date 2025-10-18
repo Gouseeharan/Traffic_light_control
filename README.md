@@ -2,25 +2,23 @@ Mini Projects - Vivado Verilog Design
 
 Overview This project is designed using Xilinx Vivado and Verilog HDL. It demonstrates FPGA-based logic design and verification for digital systems.
 
-Tools Used
+Tools Used:
 
-Xilinx Vivado
+*Xilinx Vivado
 
-Verilog HDL
+*Verilog HDL
 
-Simulation and RTL Schematic
+Steps Performed:
 
-Steps Performed
+*Designed the Verilog module
 
-Designed the Verilog module
+*Created a testbench
 
-Created a testbench
+*Simulated the design in Vivado
 
-Simulated the design in Vivado
+*Verified waveform output
 
-Verified waveform output
-
-Generate the Schematic Diagram
+*Generate the Schematic Diagram
 
 Output Add your Vivado simulation image here: 
 
